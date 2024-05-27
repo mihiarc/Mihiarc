@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
+
 <!--
 **mihiarc/Mihiarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
