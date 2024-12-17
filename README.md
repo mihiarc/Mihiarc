@@ -72,6 +72,9 @@ Here are a few highlights of my research contributions:
   
 <a href="https://scholar.google.com/citations?user=buI4HUIAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"></a> <a href="https://www.researchgate.net/profile/Chris-Mihiar-2"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white"></a> <a href="https://orcid.org/0000-0002-9832-5262"><img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"></a>  
 
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mihiarc&layout=compact)  
+
 ---
 
 ## 🛠️ **My GitHub Projects**  
@@ -91,14 +94,6 @@ I’m always looking for collaborations that drive innovative and sustainable so
 - 🔗 **Developing tools for policy and decision-making**  
 
 📧 **[Email Me](mailto:chris.mihiar@gmail.com)** | 🌐 **[Website](https://research.fs.usda.gov/about/people/christopher.mihiar)**  
-
----
-
-## 📊 **Stats & Activity**  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mihiarc&show_icons=true&theme=default)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mihiarc&layout=compact)  
 
 ---
 
