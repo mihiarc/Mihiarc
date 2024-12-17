@@ -54,6 +54,7 @@ Leading national initiatives to integrate **economic** and **ecological data** w
 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mihiarc&layout=compact)  
 ---
 
 ## 📚 **Selected Works**  
@@ -73,7 +74,6 @@ Here are a few highlights of my research contributions:
 <a href="https://scholar.google.com/citations?user=buI4HUIAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"></a> <a href="https://www.researchgate.net/profile/Chris-Mihiar-2"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white"></a> <a href="https://orcid.org/0000-0002-9832-5262"><img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"></a>  
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mihiarc&layout=compact)  
 
 ---
 
