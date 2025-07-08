@@ -6,39 +6,58 @@ Welcome to my corner of GitHub! I am a **Research Economist** passionate about s
 
 ## 🚀 Featured Python Packages
 
-<table>
-  <tr>
-    <td valign="top" width="25%">
-      <a href="https://pypi.org/project/socialmapper/">
-        <img src="https://img.shields.io/pypi/v/socialmapper?color=blue&label=PyPI&logo=python&logoColor=white" alt="PyPI version">
-        <img src="https://img.shields.io/pypi/dm/socialmapper.svg?label=Downloads&color=brightgreen" alt="PyPI downloads">
-      </a><br/>
-      <b><a href="https://pypi.org/project/socialmapper/">socialmapper</a></b><br/>
-      <i>My most downloaded Python package on PyPI. A community mapping toolkit that helps you understand how people connect with important places through travel time analysis and accessibility visualization.</i>
-    </td>
-    <td valign="top" width="25%">
-      <a href="https://github.com/mihiarc/rpa-landuse">
-        <img src="https://img.shields.io/github/stars/mihiarc/rpa-landuse?style=social" alt="GitHub stars">
-      </a><br/>
-      <b><a href="https://github.com/mihiarc/rpa-landuse">rpa-landuse</a></b><br/>
-      <i>Pioneering natural language query agent for RPA land use datasets—making complex forest and economic data accessible through conversational AI interfaces.</i>
-    </td>
-    <td valign="top" width="25%">
-      <a href="https://pypi.org/project/esri-converter/">
-        <img src="https://img.shields.io/pypi/v/esri-converter?color=blue&label=PyPI&logo=python&logoColor=white" alt="PyPI version">
-      </a><br/>
-      <b><a href="https://pypi.org/project/esri-converter/">esri-converter</a></b><br/>
-      <i>Essential toolkit for converting proprietary ESRI formats to open geospatial standards, democratizing access to spatial data workflows.</i>
-    </td>
-    <td valign="top" width="25%">
-      <a href="https://pypi.org/project/climate-zarr/">
-        <img src="https://img.shields.io/pypi/v/climate-zarr?color=blue&label=PyPI&logo=python&logoColor=white" alt="PyPI version">
-      </a><br/>
-      <b><a href="https://pypi.org/project/climate-zarr/">climate-zarr</a></b><br/>
-      <i>High-performance toolkit for climate data analysis using cloud-optimized Zarr storage, enabling scalable environmental research workflows.</i>
-    </td>
-  </tr>
-</table>
+---
+
+### 🗺️ [socialmapper](https://pypi.org/project/socialmapper/)
+[![PyPI version](https://img.shields.io/pypi/v/socialmapper?color=blue&label=PyPI&logo=python&logoColor=white)](https://pypi.org/project/socialmapper/)
+[![Downloads](https://img.shields.io/pypi/dm/socialmapper.svg?label=Downloads&color=brightgreen)](https://pypi.org/project/socialmapper/)
+  
+> **A community mapping toolkit for travel time analysis and accessibility visualization.**  
+> _Helps you understand how people connect with important places in their community._
+
+**Key Features:**
+- Travel time catchment analysis (walk, bike, drive)
+- Accessibility mapping for schools, clinics, and more
+- Open-source and easy to use
+
+---
+
+### 🤖 [rpa-landuse](https://github.com/mihiarc/rpa-landuse)
+[![GitHub stars](https://img.shields.io/github/stars/mihiarc/rpa-landuse?style=social)](https://github.com/mihiarc/rpa-landuse)
+  
+> **Natural language query agent for RPA land use datasets.**  
+> _Interact with complex forest and economic data using conversational AI._
+
+**Key Features:**
+- Query land use data in plain English
+- AI-powered data exploration
+- Designed for researchers and policymakers
+
+---
+
+### 🌐 [esri-converter](https://pypi.org/project/esri-converter/)
+[![PyPI version](https://img.shields.io/pypi/v/esri-converter?color=blue&label=PyPI&logo=python&logoColor=white)](https://pypi.org/project/esri-converter/)
+  
+> **Convert proprietary ESRI formats to open geospatial standards.**  
+> _Democratizes access to spatial data workflows._
+
+**Key Features:**
+- Fast ESRI-to-GeoJSON/Parquet conversion
+- CLI and Python API
+- Supports batch processing
+
+---
+
+### 🌡️ [climate-zarr](https://pypi.org/project/climate-zarr/)
+[![PyPI version](https://img.shields.io/pypi/v/climate-zarr?color=blue&label=PyPI&logo=python&logoColor=white)](https://pypi.org/project/climate-zarr/)
+  
+> **High-performance toolkit for climate data analysis using cloud-optimized Zarr storage.**  
+> _Enables scalable environmental research workflows._
+
+**Key Features:**
+- Cloud-native Zarr storage
+- Scalable analysis for large climate datasets
+- Integrates with xarray and geospatial tools
 
 ---
 
@@ -125,3 +144,19 @@ I’m always looking for collaborations that drive innovative and sustainable so
 ---
 
 **"Understanding human decisions and natural systems is key to addressing our planet's greatest challenges. Let's work together to ensure a sustainable future."** 🌱
+
+
+<!--
+**mihiarc/Mihiarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
