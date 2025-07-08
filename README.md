@@ -4,6 +4,44 @@ Welcome to my corner of GitHub! I am a **Research Economist** passionate about s
 
 ---
 
+## 🚀 Featured Python Packages
+
+<table>
+  <tr>
+    <td valign="top" width="25%">
+      <a href="https://pypi.org/project/socialmapper/">
+        <img src="https://img.shields.io/pypi/v/socialmapper?color=blue&label=PyPI&logo=python&logoColor=white" alt="PyPI version">
+        <img src="https://img.shields.io/pypi/dm/socialmapper.svg?label=Downloads&color=brightgreen" alt="PyPI downloads">
+      </a><br/>
+      <b><a href="https://pypi.org/project/socialmapper/">socialmapper</a></b><br/>
+      <i>My most downloaded Python package on PyPI. A community mapping toolkit that helps you understand how people connect with important places through travel time analysis and accessibility visualization.</i>
+    </td>
+    <td valign="top" width="25%">
+      <a href="https://github.com/mihiarc/rpa-landuse">
+        <img src="https://img.shields.io/github/stars/mihiarc/rpa-landuse?style=social" alt="GitHub stars">
+      </a><br/>
+      <b><a href="https://github.com/mihiarc/rpa-landuse">rpa-landuse</a></b><br/>
+      <i>Pioneering natural language query agent for RPA land use datasets—making complex forest and economic data accessible through conversational AI interfaces.</i>
+    </td>
+    <td valign="top" width="25%">
+      <a href="https://pypi.org/project/esri-converter/">
+        <img src="https://img.shields.io/pypi/v/esri-converter?color=blue&label=PyPI&logo=python&logoColor=white" alt="PyPI version">
+      </a><br/>
+      <b><a href="https://pypi.org/project/esri-converter/">esri-converter</a></b><br/>
+      <i>Essential toolkit for converting proprietary ESRI formats to open geospatial standards, democratizing access to spatial data workflows.</i>
+    </td>
+    <td valign="top" width="25%">
+      <a href="https://pypi.org/project/climate-zarr/">
+        <img src="https://img.shields.io/pypi/v/climate-zarr?color=blue&label=PyPI&logo=python&logoColor=white" alt="PyPI version">
+      </a><br/>
+      <b><a href="https://pypi.org/project/climate-zarr/">climate-zarr</a></b><br/>
+      <i>High-performance toolkit for climate data analysis using cloud-optimized Zarr storage, enabling scalable environmental research workflows.</i>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🚀 **About Me**  
 I explore the dynamic interaction between **human decisions** and **natural systems** at the intersection of:
 
@@ -28,7 +66,7 @@ Analyzing historical patterns and projecting **future land-use scenarios** under
 ### 🌲 **Economics of Forest Management**  
 Studying the impact of policies like **tax incentives** and **conservation programs** on wildfire risk, carbon sequestration, and ecosystem services.  
 
-### 📊 **Natural Capital Accounting**  
+### 📊 **Forest Valuation: Natural Capital Accounting**
 Leading national initiatives to integrate **economic** and **ecological data** with **data science**, quantifying the value of forests' carbon storage and timber assets.  
 
 ---
@@ -43,46 +81,35 @@ Leading national initiatives to integrate **economic** and **ecological data** w
 
 ---
 
-## 🛠️ **Skills**  
-| **Technical Skills**             | **Tools**                |  
-|----------------------------------|--------------------------|  
-| Econometrics & Spatial Analysis  | Python, R                |  
-| Geospatial Data Integration      | geopandas, xarray        |  
-| Climate & Policy Modeling        | Cloud Computing, GCP     |  
-| Scientific Visualization         | folium, Matplotlib       |  
-| Big Data Analytics               | Google Earth Engine      |  
+## 🛠️ **Skills & Technologies**  
 
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+### **Core Expertise**
+| **Domain**                       | **Technologies**         |  
+|----------------------------------|--------------------------|  
+| **Language Ecosystems**          | Python 3.11+, Modern R, SQL |  
+| **AI & Natural Language**        | LangChain, LangGraph, OpenAI, Claude |  
+| **High-Performance Computing**   | Polars, DuckDB, NumPy 2.0, Rust-based tools |  
+| **Geospatial & Climate Science** | Zarr, xarray, GDAL, pyogrio, rioxarray |  
+| **Data Engineering**             | Cloud-native processing, Apache Arrow, Parquet |  
+
+### **Modern Development Stack**
+| **Category**                     | **Tools**                |  
+|----------------------------------|--------------------------|  
+| **Package Management**           | `uv`, `pyproject.toml`, dependency groups |  
+| **Code Quality**                 | Ruff, `ty` (Rust type checker), pre-commit |  
+| **Testing & Validation**         | pytest, hypothesis, coverage.py |  
+| **Documentation & UI**           | MkDocs Material, Streamlit, interactive notebooks |  
+| **DevOps & Cloud**               | GitHub Actions, Google Cloud, containerization |  
+
+### **Specialized Tools**
+- 🌲 **Forest Science**: FVS Python bindings, timber valuation models
+- 🗺️ **Community Mapping**: Travel time analysis, accessibility modeling  
+- 🌡️ **Climate Analytics**: NetCDF/Zarr conversion, county-level aggregation
+- 🤖 **Conversational AI**: Natural language query agents for complex datasets
+
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/LangChain-339933?style=for-the-badge&logo=chainlink&logoColor=white"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"> <img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mihiarc&layout=compact)  
----
-
-## 📚 **Selected Works**  
-
-Here are a few highlights of my research contributions:  
-
-1. **Modeling U.S. Land-Use Change**  
-   - *"An Empirical Analysis of U.S. Land-Use Change Under Multiple Climate Change Scenarios"*  
-   - [Read More](https://doi.org/10.1002/jaa2.82)  
-
-2. **Forest Natural Capital Accounting**  
-   - Development of national pilot **timber asset accounts**, integrating ecological and economic valuation.  
-
-3. **Forest Management Under Climate Risks**  
-   - Investigating wildfire risks and their impacts on **landowner decisions** and long-term ecosystem services.
-  
-<a href="https://scholar.google.com/citations?user=buI4HUIAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"></a> <a href="https://www.researchgate.net/profile/Chris-Mihiar-2"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white"></a> <a href="https://orcid.org/0000-0002-9832-5262"><img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"></a>  
-
-
-
----
-
-## 🛠️ **My GitHub Projects**  
-
-- 🚜 **[Land-Use Change Models](#)**: Empirical models analyzing historical and future land-use patterns.  
-- 🌲 **[Forest Economics Tools](#)**: Tools for forest-related ecosystem services valuation.  
-- 📊 **[Climate & Policy Data Visualizations](#)**: Public datasets and visualizations for researchers and stakeholders.
-
 ---
 
 ## 🌟 **Let’s Collaborate!**  
@@ -98,19 +125,3 @@ I’m always looking for collaborations that drive innovative and sustainable so
 ---
 
 **"Understanding human decisions and natural systems is key to addressing our planet's greatest challenges. Let's work together to ensure a sustainable future."** 🌱
-
-
-<!--
-**mihiarc/Mihiarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
