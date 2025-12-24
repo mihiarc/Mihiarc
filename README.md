@@ -8,6 +8,20 @@ Welcome to my corner of GitHub! I am a **Research Economist** passionate about s
 
 ---
 
+### 🌲 [pyfia](https://pypi.org/project/pyfia/)
+[![PyPI version](https://img.shields.io/pypi/v/pyfia?color=blue&label=PyPI&logo=python&logoColor=white)](https://pypi.org/project/pyfia/)
+[![Downloads](https://img.shields.io/pypi/dm/pyfia.svg?label=Downloads&color=brightgreen)](https://pypi.org/project/pyfia/)
+
+> **High-performance Python library for Forest Inventory and Analysis (FIA) data.**
+> _Statistically valid estimation methods following Bechtold & Patterson (2005)._
+
+**Key Features:**
+- Design-based estimation with proper variance calculation
+- DuckDB backend for efficient large-scale data processing
+- Spatial filtering with polygon clipping support
+
+---
+
 ### 🗺️ [socialmapper](https://pypi.org/project/socialmapper/)
 [![PyPI version](https://img.shields.io/pypi/v/socialmapper?color=blue&label=PyPI&logo=python&logoColor=white)](https://pypi.org/project/socialmapper/)
 [![Downloads](https://img.shields.io/pypi/dm/socialmapper.svg?label=Downloads&color=brightgreen)](https://pypi.org/project/socialmapper/)
