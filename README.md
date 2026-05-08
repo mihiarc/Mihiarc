@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=200&section=header&text=Chris%20Mihiar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Research%20Economist%20%7C%20Forest%20Data%20Scientist%20%7C%20Open%20Source%20Developer&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=200&section=header&text=Chris%20Mihiar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Product%20Lead%20at%20CTrees%20%7C%20Forest%20Data%20%26%20APIs%20%7C%20Open%20Source&descAlignY=55&descSize=18" width="100%" />
 
 <p align="center">
   <a href="https://scholar.google.com/citations?user=buI4HUIAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-200%20citations-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
@@ -7,9 +7,10 @@
 </p>
 
 <p align="center">
+  <a href="https://chrismihiar.com"><img src="https://img.shields.io/badge/Website-2E8B57?style=flat-square&logo=astro&logoColor=white" /></a>
   <a href="mailto:chris.mihiar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://research.fs.usda.gov/about/people/christopher.mihiar"><img src="https://img.shields.io/badge/USFS%20Profile-228B22?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiwyQTEwLDEwIDAgMCwwIDIsMTJBMTAsMTAgMCAwLDAgMTIsMjJBMTAsMTAgMCAwLDAgMjIsMTJBMTAsMTAgMCAwLDAgMTIsMk0xMiw0QTgsMTQgMCAwLDEgMjAsMTJBOCw4IDAgMCwxIDEyLDIwQTgsOCAwIDAsMSA0LDEyQTgsMTQgMCAwLDEgMTIsNFoiLz48L3N2Zz4=&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/chris-mihiar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://ctrees.org"><img src="https://img.shields.io/badge/CTrees-228B22?style=flat-square&logoColor=white" /></a>
   <a href="https://www.researchgate.net/profile/Chris-Mihiar"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white" /></a>
   <a href="https://www.nber.org/people/christopher_mihiar"><img src="https://img.shields.io/badge/NBER-8B0000?style=flat-square&logoColor=white" /></a>
 </p>
@@ -18,13 +19,14 @@
 
 ## About Me
 
-I'm a **Research Economist** at the USDA Forest Service, Southern Research Station, where I develop open-source software tools that make environmental and natural resource research more accessible and reproducible.
+I'm **Product Lead at [CTrees](https://ctrees.org)**, where I lead customer-facing data and API products that put global forest monitoring into the hands of climate teams, registries, and researchers. I'm bridging forest research and product — translating the world's best forest science into things people can actually use.
 
-My work lives at the intersection of **economics, ecology, and data science**. I build tools that help researchers, land managers, and policymakers understand our forests better — from analyzing national forest inventories to projecting how land use will change under different climate scenarios. I was a key contributor to the [USDA Forest Service 2020 RPA Assessment](https://research.fs.usda.gov/understory/2020-resources-planning-act-assessment), which provides long-range strategic planning for America's renewable resources.
+Before CTrees, I spent years as a Research Economist at the **USDA Forest Service Southern Research Station**, working at the intersection of economics, ecology, and data science. I was a key contributor to the [USDA Forest Service 2020 RPA Assessment](https://research.fs.usda.gov/understory/2020-resources-planning-act-assessment) and led development of the U.S. Timber Asset Accounting methodology to integrate forest resource values into the national economic accounts.
 
 ```
+Now          Product Lead, CTrees                  (April 2026 – Present)
+Previously   Research Economist, USDA Forest Service
 Education    Ph.D. Applied Economics, Oregon State University
-Location     Research Triangle Park, NC
 ```
 
 ---
@@ -150,29 +152,29 @@ OGC compliant output with Rich progress tracking.
 
 ---
 
-## Research Focus
+## What I Work On
 
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/🌲-Forest%20Inventory-2E8B57?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📡-Forest%20Data%20APIs-2E8B57?style=for-the-badge" />
+<br /><br />
+Customer-facing data and API products at CTrees
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🌲-Forest%20Inventory-4682B4?style=for-the-badge" />
 <br /><br />
 Statistical methods for large-scale forest data analysis
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/🗺️-Land--Use%20Change-4682B4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🗺️-Land--Use%20Change-DAA520?style=for-the-badge" />
 <br /><br />
 Projecting future scenarios under climate change
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/💰-Natural%20Capital-DAA520?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💰-Natural%20Capital-CD5C5C?style=for-the-badge" />
 <br /><br />
 Quantifying ecosystem service values
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🔥-Climate%20Adaptation-CD5C5C?style=for-the-badge" />
-<br /><br />
-Tools for wildfire and drought planning
 </td>
 </tr>
 </table>
