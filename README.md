@@ -105,22 +105,22 @@ Used for timber harvest planning, carbon modeling, and forest management scenari
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" valign="top" width="25%">
 <img src="https://img.shields.io/badge/📡-Forest%20Data%20APIs-2E8B57?style=for-the-badge" />
 <br /><br />
 Customer-facing data and API products at CTrees
 </td>
-<td align="center" width="25%">
+<td align="center" valign="top" width="25%">
 <img src="https://img.shields.io/badge/🌲-Forest%20Inventory-4682B4?style=for-the-badge" />
 <br /><br />
 Statistical methods for large-scale forest data analysis
 </td>
-<td align="center" width="25%">
+<td align="center" valign="top" width="25%">
 <img src="https://img.shields.io/badge/🗺️-Land--Use%20Change-DAA520?style=for-the-badge" />
 <br /><br />
 Projecting future scenarios under climate change
 </td>
-<td align="center" width="25%">
+<td align="center" valign="top" width="25%">
 <img src="https://img.shields.io/badge/💰-Natural%20Capital-CD5C5C?style=for-the-badge" />
 <br /><br />
 Quantifying ecosystem service values
