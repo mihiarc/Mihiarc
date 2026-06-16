@@ -56,8 +56,8 @@ Education    Ph.D. Applied Economics, Oregon State University
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mihiarc&show_icons=true&theme=vue&hide_border=true&count_private=true&bg_color=00000000" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihiarc&layout=compact&theme=vue&hide_border=true&langs_count=8&bg_color=00000000" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-ten-silk-29.vercel.app/api?username=mihiarc&show_icons=true&theme=vue&hide_border=true&count_private=true&bg_color=00000000" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-ten-silk-29.vercel.app/api/top-langs/?username=mihiarc&layout=compact&theme=vue&hide_border=true&langs_count=8&bg_color=00000000" alt="Top Languages" height="165" />
 </p>
 
 <p align="center">
