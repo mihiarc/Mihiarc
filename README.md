@@ -46,7 +46,7 @@ Education    Ph.D. Applied Economics, Oregon State University
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white" />
 </p>
