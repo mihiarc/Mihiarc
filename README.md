@@ -56,16 +56,32 @@ Education    Ph.D. Applied Economics, Oregon State University
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-ten-silk-29.vercel.app/api?username=mihiarc&show_icons=true&theme=vue&hide_border=true&count_private=true&bg_color=00000000" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-ten-silk-29.vercel.app/api/top-langs/?username=mihiarc&layout=compact&theme=vue&hide_border=true&langs_count=8&bg_color=00000000" alt="Top Languages" height="165" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-silk-29.vercel.app/api?username=mihiarc&show_icons=true&theme=vue&hide_border=true&count_private=true&bg_color=00000000&disable_animations=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-silk-29.vercel.app/api?username=mihiarc&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=2e8b57&text_color=1f2328&icon_color=2e8b57&disable_animations=true" />
+    <img src="https://github-readme-stats-ten-silk-29.vercel.app/api?username=mihiarc&show_icons=true&theme=vue&hide_border=true&count_private=true&bg_color=00000000&disable_animations=true" alt="GitHub Stats" height="165" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-silk-29.vercel.app/api/top-langs/?username=mihiarc&layout=compact&theme=vue&hide_border=true&langs_count=8&bg_color=00000000&disable_animations=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-silk-29.vercel.app/api/top-langs/?username=mihiarc&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=2e8b57&text_color=1f2328&disable_animations=true" />
+    <img src="https://github-readme-stats-ten-silk-29.vercel.app/api/top-langs/?username=mihiarc&layout=compact&theme=vue&hide_border=true&langs_count=8&bg_color=00000000&disable_animations=true" alt="Top Languages" height="165" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mihiarc&theme=vue&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mihiarc&theme=vue&hide_border=true&background=00000000" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=mihiarc&hide_border=true&background=00000000&ring=2e8b57&fire=DAA520&currStreakNum=1f2328&currStreakLabel=2e8b57&sideNums=1f2328&sideLabels=586069&dates=586069&stroke=2e8b57" />
+    <img src="https://streak-stats.demolab.com/?user=mihiarc&theme=vue&hide_border=true&background=00000000" alt="GitHub Streak" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mihiarc&theme=vue&hide_border=true&bg_color=00000000&color=41B883&line=41B883&point=35495E" alt="Activity Graph" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mihiarc&theme=vue&hide_border=true&bg_color=00000000&color=41B883&line=41B883&point=35495E" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mihiarc&hide_border=true&bg_color=00000000&color=2e8b57&line=2e8b57&point=1f2328" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mihiarc&theme=vue&hide_border=true&bg_color=00000000&color=41B883&line=41B883&point=35495E" alt="Activity Graph" width="100%" />
+  </picture>
 </p>
 
 ---
