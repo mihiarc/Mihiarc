@@ -10,7 +10,7 @@
   <a href="https://chrismihiar.com"><img src="https://img.shields.io/badge/Website-2E8B57?style=flat-square&logo=astro&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/chris-mihiar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://ctrees.org"><img src="https://img.shields.io/badge/CTrees-228B22?style=flat-square&logoColor=white" /></a>
-  <a href="https://www.researchgate.net/profile/Chris-Mihiar"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white" /></a>
+  <a href="https://www.researchgate.net/profile/Chris-Mihiar-2"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white" /></a>
   <a href="https://www.nber.org/people/christopher_mihiar"><img src="https://img.shields.io/badge/NBER-8B0000?style=flat-square&logoColor=white" /></a>
 </p>
 
@@ -20,7 +20,7 @@
 
 I'm **Product Lead at [CTrees](https://ctrees.org)**, where I lead customer-facing data and API products that put global forest monitoring into the hands of climate teams, registries, and researchers. I'm bridging forest research and product — translating the world's best forest science into things people can actually use.
 
-Before CTrees, I spent years as a Research Economist at the **USDA Forest Service Southern Research Station**, working at the intersection of economics, ecology, and data science. I was a key contributor to the [USDA Forest Service 2020 RPA Assessment](https://research.fs.usda.gov/understory/2020-resources-planning-act-assessment) and led development of the U.S. Timber Asset Accounting methodology to integrate forest resource values into the national economic accounts.
+Before CTrees, I spent years as a Research Economist at the **USDA Forest Service Southern Research Station**, working at the intersection of economics, ecology, and data science. I was a key contributor to the [USDA Forest Service 2020 RPA Assessment](https://research.fs.usda.gov/inventory/rpaa/2020) and led development of the U.S. Timber Asset Accounting methodology to integrate forest resource values into the national economic accounts.
 
 ```
 Now          Product Lead, CTrees                  (April 2026 – Present)
