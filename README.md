@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=200&section=header&text=Chris%20Mihiar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Product%20Lead%20at%20CTrees%20%7C%20Forest%20Data%20%26%20APIs%20%7C%20Open%20Source&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=200&section=header&text=Chris%20Mihiar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Product%20Lead%20at%20CTrees%20%7C%20Forest%20Data%20and%20APIs%20%7C%20Open%20Source&descAlignY=55&descSize=18" width="100%" />
 
 <p align="center">
   <a href="https://scholar.google.com/citations?user=buI4HUIAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-220%2B%20citations-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
