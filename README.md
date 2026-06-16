@@ -72,69 +72,29 @@ Education    Ph.D. Applied Economics, Oregon State University
 
 ## Featured Projects
 
-### 🌲 pyfia
-[![PyPI](https://img.shields.io/pypi/v/pyfia?color=blue)](https://pypi.org/project/pyfia/)
-[![Downloads](https://img.shields.io/pypi/dm/pyfia.svg)](https://pypi.org/project/pyfia/)
-
-My flagship project: a high-performance Python library for [Forest Inventory and Analysis (FIA)](https://www.fia.fs.usda.gov/) data. The nation's forest census monitors 300,000+ plots — pyfia makes this massive dataset accessible with Polars and DuckDB, with design-based estimation and proper variance calculations matching FIA EVALIDator exactly.
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### pyfvs
-[![GitHub stars](https://img.shields.io/github/stars/mihiarc/pyfvs?style=social)](https://github.com/mihiarc/pyfvs)
+### 🌲 pyfia
+[![PyPI](https://img.shields.io/pypi/v/pyfia?color=blue)](https://pypi.org/project/pyfia/)
+[![Python](https://img.shields.io/pypi/pyversions/pyfia)](https://pypi.org/project/pyfia/)
+
+High-performance Python library for [Forest Inventory and Analysis (FIA)](https://www.fia.fs.usda.gov/) data. The nation's forest census monitors 300,000+ plots — pyfia makes this massive dataset accessible with Polars and DuckDB.
+
+Design-based estimation with proper variance calculations matching FIA EVALIDator exactly.
+
+</td>
+<td width="50%" valign="top">
+
+### 🌳 pyfvs
+[![PyPI](https://img.shields.io/pypi/v/fvs-python?color=blue)](https://pypi.org/project/fvs-python/)
+[![Python](https://img.shields.io/pypi/pyversions/fvs-python)](https://pypi.org/project/fvs-python/)
 
 Python implementation of the Forest Vegetation Simulator for the Southern variant. Simulates growth and yield of loblolly, shortleaf, longleaf, and slash pine.
 
 Used for timber harvest planning, carbon modeling, and forest management scenarios.
 
-</td>
-<td width="50%" valign="top">
-
-### gridfia
-[![GitHub stars](https://img.shields.io/github/stars/mihiarc/gridfia?style=social)](https://github.com/mihiarc/gridfia)
-
-Create gridded spatial estimates from FIA plot data. Transforms discrete plot measurements into continuous maps of biomass, carbon density, and timber volume.
-
-Outputs to GeoTIFF and Zarr for seamless GIS integration.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### rpa-landuse
-[![GitHub stars](https://img.shields.io/github/stars/mihiarc/rpa-landuse?style=social)](https://github.com/mihiarc/rpa-landuse)
-
-Natural language query agent for RPA land use projections. Ask questions like *"How much forestland will Georgia lose by 2070?"* and get data-backed answers.
-
-Built with LangChain and Claude for accessible policy analysis.
-
-</td>
-<td width="50%" valign="top">
-
-### socialmapper
-[![GitHub stars](https://img.shields.io/github/stars/mihiarc/socialmapper?style=social)](https://github.com/mihiarc/socialmapper)
-
-Community accessibility analysis bridging OpenStreetMap POI data and US Census demographics. Travel-time based metrics for understanding service access.
-
-Useful for urban planning, public health, and equity research.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### esri-converter
-[![GitHub stars](https://img.shields.io/github/stars/mihiarc/esri-converter?style=social)](https://github.com/mihiarc/esri-converter)
-
-Convert ESRI geodatabases to open formats like GeoParquet. Handles multi-GB datasets with streaming and chunking.
-
-OGC compliant output with Rich progress tracking.
-
-</td>
-<td width="50%" valign="top">
 </td>
 </tr>
 </table>
