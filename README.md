@@ -8,7 +8,6 @@
 
 <p align="center">
   <a href="https://chrismihiar.com"><img src="https://img.shields.io/badge/Website-2E8B57?style=flat-square&logo=astro&logoColor=white" /></a>
-  <a href="mailto:chris.mihiar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/chris-mihiar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://ctrees.org"><img src="https://img.shields.io/badge/CTrees-228B22?style=flat-square&logoColor=white" /></a>
   <a href="https://www.researchgate.net/profile/Chris-Mihiar"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white" /></a>
@@ -40,13 +39,14 @@ Education    Ph.D. Applied Economics, Oregon State University
 <p align="center">
   <img src="https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white" />
   <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" />
+  <img src="https://img.shields.io/badge/Zarr-2C2C2C?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/GDAL-5CAE58?style=flat-square&logo=qgis&logoColor=white" />
   <img src="https://img.shields.io/badge/GeoPandas-139485?style=flat-square&logoColor=white" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white" />
 </p>
